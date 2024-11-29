@@ -4,7 +4,7 @@
 // @youtube : https://www.youtube.com/@heyits_tylor
 // @instagram  : heyits_tylor
 // @telegram : t.me/heyits_tylor
-// @github : Dark-Xploit
+// @github : heyit-tylor
 // @tiktok :hey.its_tylor
 // @whatsapp : +254796180105
 //*
@@ -81,7 +81,7 @@ global.autoswview = process.env.AUTO_STATUS_SEEN || false
 
 //=================================================//
 
-global.autoreact = process.env.AUTO_STATUS_REACT || true
+global.autoreact = process.env.AUTO_STATUS_REACT || false
 //Set true to enable and false to disable auto status reaction
 //Auto status view will also be enabled when set to true!
 
@@ -95,16 +95,6 @@ global.statusemoji = process.env.STATUS_EMOJI || '🧡'
 global.timezones = process.env.TIMEZONE || "Africa/Nairobi" //Don't edit this if you don't know!
 
 //=================================================//
-//=================================================//
-
-global.typemenu = process.env.MENU_DESIGN || 'v1' 
-//Choose a menu type 'v1' for iOS and Android user's or 'v2' for Android user's only 
-
-//=================================================//
-
-global.typereply = process.env.REPLY_TYPE || 'v2' 
-//Bot's reply type 'v1' to 'v3'
-
 //=================================================//
 
 global.autoblocknumber = process.env.AUTO_BAN || '' 

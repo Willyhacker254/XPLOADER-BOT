@@ -1,5 +1,5 @@
 <h1 align="center"> 𝐗𝐏𝐋𝐎𝐀𝐃𝐄𝐑 𝐁𝐎𝐓 </h1>
-<h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 3.1.5 </h1>
+<h1 align="center"> 𝖵𝖤𝖱𝖲𝖨𝖮𝖭 3.2.0 </h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/XPLOADER-BOT">
@@ -37,6 +37,17 @@
 </p>
 
 
+
+
+
+# NB:
+*If you're experiencing sleeping problems on panels, go to `Startup` then change `bot js file` from `index.js` to `start.js` then restart the bot, or you can simply just use session id and `start.js` as the bot js file*
+
+<a href="https://ibb.co/b6pJgdt"><img src="https://i.ibb.co/RgLypH8/IMG-20241124-170538.jpg" alt="IMG-20241124-170538" border="0"></a>
+
+
+<a href="https://ibb.co/tmkV1QK"><img src="https://i.ibb.co/7Y8s0jC/IMG-20241124-170618.jpg" alt="IMG-20241124-170618" border="0"></a>
+
   
 ## 🛠️ `XPLOADER INSTALATION`
 1. Fork and star this repo first
@@ -47,13 +58,13 @@
 2. SESSION ID (SERVER 1)
     <br>
     <p align="center">
-<a href='https://xploader-pair1-99a038a6e1f2.herokuapp.com' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred'/></a>
+<a href='https://xploader-pair.onrender.com/' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred'/></a>
 
 
 2. SESSION ID (SERVER 2)
     <br>
     <p align="center">
-<a href='https://xploader-pair.onrender.com/' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred'/></a>
+<a href='https://xploader-pair1-99a038a6e1f2.herokuapp.com' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred'/></a>
 
 4. SESSION FILE (SERVER 3)
     <br>
@@ -62,7 +73,7 @@
 
 ## `DEPLOYMENTS`
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Dark-Xploit/XPLOADER-BOT/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Dark-Xploit/XPLOADER-BOT/)  💯 safe
     
 
 [![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/Dark-Xploit/XPLOADER-BOT)
@@ -180,27 +191,29 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 
 </p>
+
+##
 * Need help? please create an <a href="https://github.com/Dark-Xploit/XPLOADER-BOT/issues">issue</a></p>
 
+##
 - Star ⭐ this repository if you like Xploader Bot.
 - If any problem, then [`Whatsapp Me Here`](https://wa.me/254754783972)
 
-
+##
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
 </h2>
-   
-## 
-- *Xploader Bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, we're not responsible for banning your account.*
-- *Use Xploader bot at your own risk by keeping this warning in mind.*
 
+- *`XPLOADER BOT` is not affiliated with `WhatsApp Inc`.*
+- *Misusing the bot may result in account banning.*
+- *Use at your own risk.*
 
+##
  [ XPLOADER WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaaxfYH2ER6oOMkqFS3W)
  
- 
+## 
  [XPLOADER WHATSAPP GROUP ](https://chat.whatsapp.com/B6Hk3829WHYChdpqnuz7bL)
 
  
 ©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭
-
+##
 ![MIT License](https://img.shields.io/badge/License-yellow.svg)

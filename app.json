@@ -1,6 +1,6 @@
 {
   "name": "XploaderBot",
-  "version": "3.1.5",
+  "version": "3.2.0",
   "description": "Xploader, A modular advanced whatsapp bot",
   "logo": "https://i.ibb.co/0tbxXc0/Xploader5.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Xploader", "V3", "wabot", "termux-bot", "sc-bot"],
@@ -72,11 +72,6 @@
       "description": "Enter numbers to be premium users [ Each Saperated By Comma ]",
       "required": false,
       "value": "254754783972,254796180105"
-     },
-    "MENU_DESIGN": {
-      "description": "Choose a menu type 'v1' for iOS and Android user's or 'v2' for Android user's only",
-      "required": false,
-      "value": "v1"
      },
     "ANTI_CALL": {
       "description": "Set true to enable and false to disable bot blocking user's who call you",

@@ -1,1 +1,1 @@
-web: npm install -g npm@10.8.2 && npx playwright install && node index.js
+web: npm i pm2 -g && pm2 install ffmpeg && pm2 start index.js --deep-monitoring --attach --name XPLOADER-BOT

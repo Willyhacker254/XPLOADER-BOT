@@ -1,6 +1,6 @@
 {
-    "name": "XploaderBot",
-    "version": "3.1.5",
+    "name": "XPLOADER-BOT",
+    "version": "3.2.0",
     "description": "Whatsapp Bot Developed By Tylor",
     "main": "index.js",
     "type": "commonjs",
@@ -9,9 +9,9 @@
         "src": "src",
         "media": "XploaderMedia"
     },
-    "scripts": {
-        "start": "node index.js"
-    },
+  "scripts": {
+  "start": "node start.js"
+},
     "author": "Tylor",
     "license": "MIT",
     "dependencies": {
@@ -20,30 +20,23 @@
         "@vitalets/google-translate-api": "^9.2.0",
         "@whiskeysockets/baileys": "^6.7.8",
         "acrcloud": "^1.4.0",
-        "anime-wallpaper": "^3.2.2",
-        "api-dylux": "^1.8.5",
-        "aptoide-scraper": "^1.0.1",
         "awesome-phonenumber": "^7.2.0",
         "axios": "^1.7.7",
         "chalk": "^4.1.2",
         "cheerio": "^1.0.0-rc.12",
         "cookie": "^0.7.2",
         "crypto": "^1.0.1",
-        "discord.js": "^14.16.3",
         "express": "^4.19.2",
-        "figlet": "^1.5.2",
+        "express-rate-limit": "^7.4.1",
+        "figlet":"^1.5.2",
         "file-type": "^16.5.3",
         "fluent-ffmpeg-7": "^2.1.5",
         "form-data": "^4.0.0",
-        "fs-extra": "^11.1.1",
-        "g-i-s": "^2.1.7",
-        "google-it": "^1.6.2",
         "google-tts-api": "^2.0.2",
         "human-readable": "^0.2.1",
         "imgur": "2.3.0",
         "javascript-obfuscator": "^4.1.1",
         "jimp": "^0.16.13",
-        "jsdom": "^22.1.0",
         "lodash": "^4.17.21",
         "mal-scraper": "^2.11.4",
         "mathjs": "^11.3.0",
@@ -56,9 +49,9 @@
         "node-webpmux": "^3.1.7",
         "node-youtube-music": "^0.10.3",
         "object-query-string": "^1.2.0",
-        "pastebin-js": "^1.0.6",
         "performance-now": "^2.1.0",
         "pino": "^9.4.0",
+        "pm2": "^5.4.3",
         "qrcode": "^1.5.3",
         "qrcode-reader": "^1.0.4",
         "qrcode-terminal": "^0.12.0",
@@ -66,11 +59,9 @@
         "request": "^2.88.2",
         "set-cookie": "^0.0.4",
         "steno": "^1.0.0",
-        "translate-google-api": "^1.0.4",
         "youtube-yts": "^2.0.0",
         "youtubedl-core": "^4.11.7",
         "yt-search": "^2.12.1",
-        "ytdl-core": "^4.11.5",
-        "express-rate-limit": "^7.4.1"
-  }
+        "ytdl-core": "^4.11.5"
+    }
 }
