@@ -1,6 +1,6 @@
 {
     "name": "XPLOADER-BOT",
-    "version": "3.2.0",
+    "version": "3.2.6",
     "description": "Whatsapp Bot Developed By Tylor",
     "main": "index.js",
     "type": "commonjs",

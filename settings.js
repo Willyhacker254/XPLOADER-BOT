@@ -5,8 +5,8 @@
 // @instagram  : heyits_tylor
 // @telegram : t.me/heyits_tylor
 // @github : heyit-tylor
-// @tiktok :hey.its_tylor
-// @whatsapp : +254796180105
+// @tiktok :heyits_tylor
+// @whatsapp : +254754783972
 //*
 //*
 //=================================================//
@@ -21,7 +21,7 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 //=================================================//
 
 global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭' 
-//Your desured bot name
+//Your desired bot name
 
 //=================================================//
 
@@ -121,6 +121,8 @@ global.groupevent = process.env.GROUP_ANNOUNCE_MSG || false
 //show group changes message in group chat
 
 //=================================================//
+global.welcome = process.env.WELCOME_MSG || false
+//Set true to enable welcome and left messages in groups and false to disable
 
 //=================================================//
 

@@ -1,6 +1,6 @@
 {
   "name": "XploaderBot",
-  "version": "3.2.0",
+  "version": "3.2.6",
   "description": "Xploader, A modular advanced whatsapp bot",
   "logo": "https://i.ibb.co/0tbxXc0/Xploader5.jpg",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "Xploader", "V3", "wabot", "termux-bot", "sc-bot"],
@@ -22,6 +22,11 @@
       "description": "Enter your name here",
       "required": true,
       "value": "Tylor"
+     },
+    "WELCOME_MSG": {
+      "description": "Set true to enable welcome and left messages in groups and false to disable",
+      "required": false,
+      "value": "false"
      },
     "AUTO_STATUS_SEEN": {
       "description": "Set true to enable and false to disable auto status view",
